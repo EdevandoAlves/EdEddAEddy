@@ -37,6 +37,5 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edevando-alves/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amorkkj)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amorszkkj/)
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. 😊
