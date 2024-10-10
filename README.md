@@ -1,23 +1,42 @@
-Olá 👋, Bom dia☀️/Boa Tarde🌓/Boa noite🌑, tudo bem ?<br>Me chamo Edevando, um pouco complicado então, pode me chamar de Edy(mais facil decorar) e sou um futuro desenvolvedor jr 🐤.<br><br>
-🔭Sou formado no bootcamp da Cubos Academy, onde aprendi a desenvolver API Rest utilizando NodeJS/Express, JWT para autenticação e BCript para encriptação de senhas. Em seguida, participei do programa Generation Brasil com parceria com o IFood, onde tive a oportunidade de desenvolver o backend em Java/SpringBoot, obtendo meu primeiro contato com ORM, e realizar o frontend com React e Tailwind, além das softskills como: comunicação não violenta, resolução de conflitos, trabalho em equipe e etc. Me sinto totalmente preparado para desempenhar profissionalmente tudo que aprendi. Estou ansioso para iniciar minha carreira como desenvolvedor e contribuir para o desenvolvimento de soluções inovadoras.
+# Olá, eu sou Ed! 👋
 
-🌱 Estou extremamente contente por esse final de ciclo, mas sei que não posso parar por aqui. Meus próximos passos são continuar estudando e tentar adentrar na área..<br>
+## Sobre mim
+Sou Edevando, mas pode me chamar de Ed (é mais fácil de lembrar 😉). Atualmente, estou trabalhando como desenvolvedor web júnior, apaixonado por criar soluções inovadoras e aprender novas tecnologias.
 
-📚 Pretendo me aprofundar no universo Node e aprender ORM, Solid, TDD e DDD. Também quero aprender mais sobre SpringBoot.<br><br>🔁 Prometo retornar neste README (VOLTEI MESMO E COM MUITO MAIS CONHECIMENTO) para adicionar cada vez mais coisas igualmente ao github para adicionar mais e mais conhecimentos.<br><br>❤️ No momento é apenas isto, obrigado por vir até aqui. tenha um excelente dia. <br><br> E agora temos disponivel alguns projetos proprios e do conteudo programatico como prometi no readme anterior 😊. <br> <br>
+## 🚀 O que estou fazendo
 
+- 💼 Trabalhando como desenvolvedor web júnior
+- 🎨 Aprimorando minhas habilidades em front-end, incluindo animações 2D e 3D
+- 🔧 Desenvolvendo projetos full stack para ampliar minha experiência
+- 📚 Estudando e aprofundando meus conhecimentos em:
+  - JavaScript (JS)
+  - React
+  - Node.js
+  - NestJS
+  - Tailwind CSS
 
-<h3 align="left">🌐 Socials:</h3>
-<a href="https://twitter.com/amorkkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amorkkj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/edevando-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edevando-alves/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/amorszkkj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amorszkkj/" height="30" width="40" /></a>
-</p>
-<br><br>
+## 💻 Tecnologias
 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> <br> <br>
+Aqui estão algumas das principais tecnologias com as quais trabalho:
 
-<h3>📊 GitHub Stats:</h3>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ededdaeddy&show_icons=true&locale=en&layout=compact" alt="ededdaeddy" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ededdaeddy&show_icons=true&locale=en" alt="ededdaeddy" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ededdaeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ededdaeddy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edevando-alves/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amorkkj)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amorszkkj/)
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. 😊
