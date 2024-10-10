@@ -8,6 +8,7 @@ Sou Edevando, mas pode me chamar de Ed (é mais fácil de lembrar 😉). Atualme
 - 💼 Trabalhando como desenvolvedor web júnior
 - 🎨 Aprimorando minhas habilidades em front-end, incluindo animações 2D e 3D
 - 🔧 Desenvolvendo projetos full stack para ampliar minha experiência
+- 🔑 Criando APIs seguras e eficientes usando ORM Prisma, JWT para autenticação e bcrypt para criptografia
 - 📚 Estudando e aprofundando meus conhecimentos em:
   - JavaScript (JS)
   - React
@@ -26,6 +27,33 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+
+### Desenvolvimento de API
+No desenvolvimento de APIs, tenho experiência com:
+- 🔷 Prisma ORM: Modelagem de dados, migrações, queries complexas e otimização de performance
+- 📊 Trabalho com bancos SQL (PostgreSQL, MySQL) e NoSQL (MongoDB)
+- 🔐 JWT (JSON Web Tokens) para autenticação segura
+- 🔒 bcrypt para criptografia de senhas
+- 🚀 Express.js e Fastify para criação de servidores web rápidos e escaláveis
+- ✅ Testes unitários e de integração usando Jes
+  
+## 🏗️ Projetos em Destaque
+
+Estou sempre trabalhando em projetos pessoais para aprimorar minhas habilidades. Aqui estão alguns em que estou focado atualmente:
+
+- 🎵 **Vinyl Box** (Privado): Um serviço de streaming de música com temática anos 60/70. Este projeto me permite aprofundar meus conhecimentos em streaming de arquivos e criar uma experiência nostálgica para os usuários.
+
+- 🍽️ **[Savor Sync](https://github.com/EdEddAEddy/savor-sync)**: Um gerenciador de reservas de restaurantes. Desenvolvido em colaboração com amigos, este projeto permite que clientes gerenciem suas reservas e que restaurantes ofertem disponibilidade. É uma ótima oportunidade para trabalhar com reservas em tempo real e gestão de usuários.
+
+## 🎯 Objetivos e Interesses
+
+- 🖥️ Aprofundar meus conhecimentos em UI/UX, animações 2D e 3D para web
+- ♿ Explorar e implementar práticas de acessibilidade web
+- 🔙 Expandir minhas habilidades em desenvolvimento backend
+- 🌐 Transicionar para uma posição full stack
 
 ## 📊 GitHub Stats
 
