@@ -1,8 +1,7 @@
 # Olá, eu sou Ed! 👋
 
 ## Sobre mim
-Sou Edevando, mas pode me chamar de Ed (é mais fácil de lembrar 😉). Atualmente, estou trabalhando como desenvolvedor web júnior, apaixonado por criar soluções inovadoras e aprender novas tecnologias.
-
+Sou Edevando, mas pode me chamar de Ed (é mais fácil de lembrar 😉). Atualmente, estou trabalhando como desenvolvedor web júnior.
 ## 🚀 O que estou fazendo
 
 - 💼 Trabalhando como desenvolvedor web júnior
@@ -38,7 +37,7 @@ No desenvolvimento de APIs, tenho experiência com:
 - 🔐 JWT (JSON Web Tokens) para autenticação segura
 - 🔒 bcrypt para criptografia de senhas
 - 🚀 Express.js e Fastify para criação de servidores web rápidos e escaláveis
-- ✅ Testes unitários e de integração usando Jes
+- ✅ Testes unitários e de integração usando Jest
   
 ## 🏗️ Projetos em Destaque
 
