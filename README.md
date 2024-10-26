@@ -45,7 +45,7 @@ Estou sempre trabalhando em projetos pessoais para aprimorar minhas habilidades.
 
 - 🎵 **[Vinyl Box](https://github.com/EdEddAEddy/vinyl-box)** : Um serviço de streaming de música com temática anos 60/70. Este projeto me permite aprofundar meus conhecimentos em streaming de arquivos e criar uma experiência nostálgica para os usuários.
 
-- 🍽️ **[Savor Sync](https://github.com/EdEddAEddy/savor-sync)**: Um gerenciador de reservas de restaurantes. Desenvolvido em colaboração com amigos, este projeto permite que clientes gerenciem suas reservas e que restaurantes ofertem disponibilidade. É uma ótima oportunidade para trabalhar com reservas em tempo real e gestão de usuários.
+- 🍽️ **[Savor Sync](https://github.com/inimigos-git)**: Um gerenciador de reservas de restaurantes. Desenvolvido em colaboração com amigos, este projeto permite que clientes gerenciem suas reservas e que restaurantes ofertem disponibilidade. É uma ótima oportunidade para trabalhar com reservas em tempo real e gestão de usuários.
 
 ## 🎯 Objetivos e Interesses
 
