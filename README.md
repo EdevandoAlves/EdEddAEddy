@@ -1,19 +1,18 @@
-# Olá, eu sou Ed! 👋
+# Olá, Tudo bem ? 👋
 
+Me chamo Edevando, sou desenvolvedor web com foco em front-end, mas tenho uma grande paixão pelo back-end. Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Atualmente, procuro oportunidades como desenvolvedor back-end ou full stack.\
 ## Sobre mim
-Sou Edevando, mas pode me chamar de Ed (é mais fácil de lembrar 😉). Atualmente, estou trabalhando como desenvolvedor web júnior.
-## 🚀 O que estou fazendo
 
 - 💼 Trabalhando como desenvolvedor web júnior
 - 🎨 Aprimorando minhas habilidades em front-end, incluindo animações 2D e 3D
 - 🔧 Desenvolvendo projetos full stack para ampliar minha experiência
 - 🔑 Criando APIs seguras e eficientes usando ORM Prisma, JWT para autenticação e bcrypt para criptografia
 - 📚 Estudando e aprofundando meus conhecimentos em:
-  - JavaScript (JS)
+  - TypeScript (TS)
   - React
-  - Node.js
   - NestJS
   - Tailwind CSS
+  - Java
 
 ## 💻 Tecnologias
 
@@ -30,39 +29,7 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
-### Desenvolvimento de API
-No desenvolvimento de APIs, tenho experiência com:
-- 🔷 Prisma ORM: Modelagem de dados, migrações, queries complexas e otimização de performance
-- 📊 Trabalho com bancos SQL (PostgreSQL, MySQL) e NoSQL (MongoDB)
-- 🔐 JWT (JSON Web Tokens) para autenticação segura
-- 🔒 bcrypt para criptografia de senhas
-- 🚀 Express.js e Fastify para criação de servidores web rápidos e escaláveis
-- ✅ Testes unitários e de integração usando Jest
-  
-## 🏗️ Projetos em Destaque
-
-Estou sempre trabalhando em projetos pessoais para aprimorar minhas habilidades. Aqui estão alguns em que estou focado atualmente:
-
-- 🎵 **[Vinyl Box](https://github.com/EdEddAEddy/vinyl-box)** : Um serviço de streaming de música com temática anos 60/70. Este projeto me permite aprofundar meus conhecimentos em streaming de arquivos e criar uma experiência nostálgica para os usuários.
-
-- 🍽️ **[Savor Sync](https://github.com/inimigos-git)**: Um gerenciador de reservas de restaurantes. Desenvolvido em colaboração com amigos, este projeto permite que clientes gerenciem suas reservas e que restaurantes ofertem disponibilidade. É uma ótima oportunidade para trabalhar com reservas em tempo real e gestão de usuários.
-
-## 🎯 Objetivos e Interesses
-
-- 🖥️ Aprofundar meus conhecimentos em UI/UX, animações 2D e 3D para web
-- ♿ Explorar e implementar práticas de acessibilidade web
-- 🔙 Expandir minhas habilidades em desenvolvimento backend
-- 🌐 Transicionar para uma posição full stack
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ededdaeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ededdaeddy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🌐 Vamos nos conectar!
+## 🌐 Contato!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edevando-alves/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amorkkj)
-
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. 😊
